@@ -1,0 +1,2 @@
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkrharsh17%2Fdjango%2Dcalculator&demo-title=Django%20%2B%Calculator&demo-description=Use%20Django%204%20on%20Vercel%20with%20Serverless%20Functions%20using%20the%20Python%20Runtime.)
