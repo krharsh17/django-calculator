@@ -1,0 +1,28 @@
+<div class="center">
+  <h1>Basic Calculator</h1>
+
+  <form action="calculator">
+    <div class="center">
+      <input type="text" name="expression" placeholder="Enter the expression">
+      <br><br>
+      <button type="submit" name="calculate">Calculate</button>
+      <br><br>
+      The result is:
+      <h1>{{ans}}</h1>
+    </div>
+
+  </form>
+</div>
+
+<style>
+  .center {
+    margin: auto;
+    width: 60%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+</style>
